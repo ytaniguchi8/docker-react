@@ -12,7 +12,7 @@ deploy:
     edge: true
     provider: elasticbeanstalk
     region: "ap-northeast-1" 
-    app: "docker"
+    app: "taniguchi-docker"
     env: "Docker-env"
     bucket_name: "elasticbeanstalk-ap-northeast-1-085107194442"
     bucket_path: "taniguchi-docker"
